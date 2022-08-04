@@ -1,0 +1,5 @@
+# https://pypi.org/project/naff/
+naff
+# https://pypi.org/project/python-dotenv/ - Used to load environment variables from a .env file
+# Good for storing sensitive data like Tokens and API keys.
+python-dotenv
